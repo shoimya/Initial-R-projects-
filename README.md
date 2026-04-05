@@ -1,4 +1,6 @@
 # Initial-R-projects-
-Here i am uploading some files that i have worked on. These are basic R projects. 
+These are some of the basic R projects I have worked on.
 
-as i am learning R on my own i will be starting from using variables then going into fucntions and finally doing data analytis and visualizations. These are written in such a way that novice programmers are able to read and understand what this language is and how it can be used.
+As I am learning R on my own, I started with using variables, then moved on to writing functions, and am now progressing into data analysis and visualizations.
+
+These projects are written in a way that is easy for novice programmers to read and understand, demonstrating how R works and how it can be applied for data manipulation and analysis.
